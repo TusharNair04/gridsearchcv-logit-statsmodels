@@ -14,7 +14,7 @@ This project demonstrates how to perform grid search with `statsmodels` Logit mo
 
    ```bash
    git clone https://github.com/TusharNair04/gridsearchcv-logit-statsmodels.git
-   cd GRIDSEARCHCV-LOGIT-STATSMODELS
+   cd gridsearchcv-logit-statsmodels
    ```
 
 2. Install the necessary dependencies:
