@@ -1,4 +1,4 @@
-# GRIDSEARCHCV-LOGIT-STATSMODELS
+# GRIDSEARCHCV IMPLEMENTATION FOR LOGIT MODEL IN STATSMODELS LIBRARY
 
 This project demonstrates how to perform grid search with `statsmodels` Logit models using Scikit-learn's `GridSearchCV`.
 
